@@ -43,6 +43,9 @@ Para el desarrollador ingresado, retorna la cantidad de comentarios positivos y 
 ### Endpoint 6: /recomendacion_juego/{id_producto}
 Para el ID de producto ingresado, recomienda 5 juegos relacionados.
 
+Se detectaron problemas con los endpoints 3 y 6. El endpoint 3 no pudo ser desplegado en Render debido al gran tamaño del archivo asociado, lo cual impidió subirlo a GitHub. El endpoint 6, por su parte, presentó errores durante su desarrollo y no funciona como se esperaba.
+
+En el siguiente video se puede observar el funcionamiento de la API.
 
 
 
